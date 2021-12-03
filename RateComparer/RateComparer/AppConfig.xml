@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApiCofig>
+  <Api name="AbcInsurance">
+    <Url action="Rate">http://localhost:51612/rate</Url>
+  </Api>
+</ApiCofig>
